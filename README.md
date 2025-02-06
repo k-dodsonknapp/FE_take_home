@@ -1,2 +1,2 @@
-# fe_take_home
+# FE_take_home
 Fetch Frontend Take-Home Exercise
